@@ -1,7 +1,40 @@
  ### 👋Hi,I'm Priyanka Sharma..!
 
  # 💫 About Me:
-🎯 Full Stack Web Developer Sharing about my journey and learnings in Tech💻<br>👩‍🎓 Studied B.TECH in information Technology Branch at the Swami Vivekanand College of Engineering Indore<br>💬 Ask me about :  HTML5,CSS3,JavaScript, java<br>📄 Know about my experiences : https://www.canva.com/design/DAF_qoBv8z8/iJaiLpNGTl7cMDl_Ivs6IA/edit?utm_content=DAF_qoBv8z8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br>📫 How to reach me : priyankas41956@gmail.com<br>🌱 I’m currently learning about : MERN Stack [JavaScript, React,Express.js,Node.js, ]
+🚀 Software Development Engineer (SDE) and Freelance Full Stack Developer passionate about building scalable, secure, and high-performance web applications.
+
+💼 Currently working as a Software Development Engineer, where I design and develop modern business solutions, automation systems, and web applications that solve real-world problems.
+
+🌐 Alongside my professional role, I work as a Freelance Developer, helping startups, businesses, and entrepreneurs build responsive websites, custom dashboards, management systems, and full-stack applications.
+
+💻 Experienced in developing end-to-end applications using:
+
+* React.js
+* JavaScript (ES6+)
+* Node.js
+* Express.js
+* MongoDB
+* MySQL
+* Google Apps Script
+* REST APIs
+* Git & GitHub
+
+🏗️ I enjoy transforming complex business requirements into clean, user-friendly, and scalable digital solutions.
+
+🌱 Continuously learning and improving my expertise in Software Engineering, System Design, Advanced MERN Stack Development, Performance Optimization, and Cloud Technologies.
+
+⚡ Areas of Interest:
+
+* Full Stack Development
+* SaaS Applications
+* Business Automation Systems
+* Enterprise Web Solutions
+* UI/UX-Focused Development
+* Workflow Automation
+
+🤝 Open to Freelance Projects, Collaborations, and Software Development Opportunities.
+
+📫 Reach me at: **[priyankas41956@gmail.com]**
 
 
 ## 🌐 Socials:
